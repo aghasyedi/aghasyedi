@@ -9,7 +9,7 @@ I'm currently a **7th-semester** student pursuing a degree in **Computer Science
 - 🔭 I’m currently working on a **Blockchain-based Donation DApp** using **Solidity** and **Python Flask**.
 - 🌱 I’m learning more about **Web3.js**, **Smart Contracts**, and **Decentralized Finance (DeFi)**.
 - 💬 Ask me about **Blockchain Development**, **Smart Contracts**, **Python**, or anything tech-related!
-- 📫 How to reach me: [Your Email](mailto:your_email@example.com)
+- 📫 How to reach me: [Your Email](mailto:aghasyedi@gmail.com)
 - ⚡ Fun fact: I love watching sci-fi movies like *Interstellar* and *The Martian*.
 
 ## 🔧 Skills
@@ -41,17 +41,17 @@ Here are some of the projects I’m currently working on or have worked on in th
 
 ## 📈 GitHub Stats
 
-![Agha Tasheer Syedi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AghaTasheerSyedi&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+![Agha Tasheer Syedi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aghasyedi&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
 ## 📊 My Contributions
 
-![Agha Tasheer Syedi's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AghaTasheerSyedi&theme=github)
+![Agha Tasheer Syedi's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=aghasyedi&theme=github)
 
 ---
 
 ### 📝 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/agha-tasheer-syedi/)
-- [Twitter](https://twitter.com/yourusername)
+- [LinkedIn](https://www.linkedin.com/in/aghasyedi/)
+- [Twitter](https://twitter.com/AghaSyedi)
 - [Medium](https://medium.com/@yourusername)
 
