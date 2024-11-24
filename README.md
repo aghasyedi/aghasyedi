@@ -9,7 +9,7 @@ I'm currently a **7th-semester** student pursuing a degree in **Computer Science
 - 🔭 I’m currently working on a **Blockchain-based Donation DApp** using **Solidity** and **Python Flask**.
 - 🌱 I’m learning more about **Web3.js**, **Smart Contracts**, and **Decentralized Finance (DeFi)**.
 - 💬 Ask me about **Blockchain Development**, **Smart Contracts**, **Python**, or anything tech-related!
-- 📫 How to reach me: [Your Email](mailto:aghasyedi@gmail.com)
+- 📫 How to reach me: [Email](mailto:aghasyedi@gmail.com)
 - ⚡ Fun fact: I love watching sci-fi movies like *Interstellar* and *The Martian*.
 
 ## 🔧 Skills
