@@ -46,8 +46,7 @@ Here are some of the projects I’m currently working on or have worked on in th
 ## 📊 My Contributions
 
 ![Agha Tasheer Syedi's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=aghasyedi&theme=github)
-
----
+![Agha Tasheer Syedi's Contribution Graph](https://github-readme-stats.vercel.app/api/top-langs?username=aghasyedi&show_icons=true&locale=en&layout=compact)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aghasyedi&show_icons=true&locale=en&layout=compact" alt="kartiksharma17" /></p>
 
@@ -55,6 +54,7 @@ Here are some of the projects I’m currently working on or have worked on in th
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aghasyedi&" alt="kartiksharma17" /></p>
 
+---
 
 
 ### 📝 Let's Connect
