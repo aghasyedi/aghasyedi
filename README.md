@@ -39,7 +39,7 @@ Here are some of the projects I’m currently working on or have worked on in th
 - **[Introduction to Blockchain Development](https://medium.com/@yourusername/blockchain-development)**: A beginner's guide to understanding the basics of blockchain technology.
 - **[Smart Contracts Explained](https://medium.com/@yourusername/smart-contracts)**: A deep dive into smart contracts and their use cases in decentralized applications.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aghasyedi&label=Profile%20views&color=0e75b6&style=flat" alt="aghasyedi" /> </p>![Uploading image.png…]()
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aghasyedi&label=Profile%20views&color=0e75b6&style=flat" alt="aghasyedi" />
 
 ## 📈 GitHub Stats
 
