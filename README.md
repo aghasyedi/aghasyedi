@@ -39,10 +39,12 @@ Here are some of the projects I’m currently working on or have worked on in th
 - **[Introduction to Blockchain Development](https://medium.com/@yourusername/blockchain-development)**: A beginner's guide to understanding the basics of blockchain technology.
 - **[Smart Contracts Explained](https://medium.com/@yourusername/smart-contracts)**: A deep dive into smart contracts and their use cases in decentralized applications.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aghasyedi&label=Profile%20views&color=0e75b6&style=flat" alt="aghasyedi" />
 
 ## 📈 GitHub Stats
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aghasyedi&label=Profile%20views&color=0e75b6&style=flat" alt="aghasyedi" />
+  
 ![Agha Tasheer Syedi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aghasyedi&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
 ![Agha Tasheer Syedi's Contribution Graph](https://github-readme-stats.vercel.app/api?username=aghasyedi&show_icons=true&locale=en)
