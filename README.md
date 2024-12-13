@@ -60,5 +60,4 @@ Here are some of the projects I’m currently working on or have worked on in th
 
 - [LinkedIn](https://www.linkedin.com/in/aghasyedi/)
 - [Twitter](https://twitter.com/AghaSyedi)
-- [Medium](https://medium.com/@yourusername)
 
