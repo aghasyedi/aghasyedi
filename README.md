@@ -18,7 +18,7 @@ I'm currently a **7th-semester** student pursuing a degree in **Computer Science
 - **Frameworks & Tools**: Flask, Web3.js, React, Node.js
 - **Blockchain**: Ethereum, Smart Contracts, Ganache, MetaMask
 - **Databases**: MySQL, MongoDB
-- **Other**: Git, Docker, Nginx
+- **Other**: Git, Docker
 
 ## 🌱 Currently Learning
 
@@ -30,14 +30,16 @@ I'm currently a **7th-semester** student pursuing a degree in **Computer Science
 
 Here are some of the projects I’m currently working on or have worked on in the past:
 
-- **[Donation DApp](https://github.com/yourusername/donation-dapp)**: A decentralized application that allows users to make donations on the Ethereum blockchain.
-- **[Blockchain Voting System](https://github.com/yourusername/blockchain-voting-system)**: A secure and transparent voting system built using Ethereum smart contracts.
-- **[AI Chatbot](https://github.com/yourusername/ai-chatbot)**: An AI-powered chatbot for customer support.
 
-## 📚 Blogs & Articles
-
-- **[Introduction to Blockchain Development](https://medium.com/@yourusername/blockchain-development)**: A beginner's guide to understanding the basics of blockchain technology.
-- **[Smart Contracts Explained](https://medium.com/@yourusername/smart-contracts)**: A deep dive into smart contracts and their use cases in decentralized applications.
+- **[lms-api](https://github.com/aghasyedi/lms-api)** (Public): Library Management System API.
+- **EduPresence** (Private): An innovative real-time collaboration platform for online learning.
+- **[MyBookshelf-MERN](https://github.com/aghasyedi/MyBookshelf-MERN)** (Public): A Bookshelf web application using the MERN stack to search, add, and review books.
+- **[VoyageSocialChain](https://github.com/aghasyedi/VoyageSocialChain)** (Public): A blockchain-based social media platform focused on data privacy and decentralization.
+- **[FutureMindsDApp](https://github.com/aghasyedi/FutureMindsDApp)** (Public): A Donation DApp enabling users to make and track donations in Ether (ETH).
+- **[AvingeniousWebsiteReplica](https://github.com/aghasyedi/AvingeniousWebsiteReplica)** (Public): Reproduced a professional website using HTML, CSS, and JavaScript.
+- **[C-TokenAnalyzer](https://github.com/aghasyedi/C-TokenAnalyzer)** (Public): A Python tool for tokenizing and analyzing C program code.
+- **[Java-Student-Manager](https://github.com/aghasyedi/Java-Student-Manager)** (Public): A student management system built with Java, Servlets, JSP, and MongoDB.
+- **[College-Attendance-System](https://github.com/aghasyedi/College-Attendance-System)** (Public): A Python-based attendance management system with SQL integration.
 
 
 ## 📈 GitHub Stats
