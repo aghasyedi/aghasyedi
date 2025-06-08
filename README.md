@@ -33,7 +33,7 @@ I'm currently an **8th-semester** student pursuing a degree in **Computer Scienc
 Here are some of the projects I’m currently working on or have worked on in the past:
 
 - **[lms-api](https://github.com/aghasyedi/lms-api)** (Public): Library Management System API.
-- **[EduPresence](https://github.com/aghasyedi/EduPresence)** (Pubkic): A Flask-based learning management system (LMS) featuring face recognition and QR code attendance, live classes via Jitsi Meet, Google OAuth authentication, and role-based dashboards for students, instructors, and admins.
+- **[EduPresence](https://github.com/aghasyedi/EduPresence)** (Public): A Flask-based learning management system (LMS) featuring face recognition and QR code attendance, live classes via Jitsi Meet, Google OAuth authentication, and role-based dashboards for students, instructors, and admins.
 - **[MyBookshelf-MERN](https://github.com/aghasyedi/MyBookshelf-MERN)** (Public): A Bookshelf web application using the MERN stack to search, add, and review books.
 - **[VoyageSocialChain](https://github.com/aghasyedi/VoyageSocialChain)** (Public): A blockchain-based social media platform focused on data privacy and decentralization.
 - **[FutureMindsDApp](https://github.com/aghasyedi/FutureMindsDApp)** (Public): A Donation DApp enabling users to make and track donations in Ether (ETH).
