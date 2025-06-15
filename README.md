@@ -23,10 +23,7 @@ I'm currently an **8th-semester** student pursuing a degree in **Computer Scienc
 
 ## 🌱 Currently Learning
 
-- **Web3.js** and **Solidity** for building decentralized applications
 - **Machine Learning** techniques and algorithms
-- **Scalable Web Applications** for real-time collaboration and user management
-- **Ethereum Layer 2 Solutions** (Optimism, Arbitrum)
 
 ## 🛠️ Projects
 
