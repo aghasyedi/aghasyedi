@@ -1,5 +1,3 @@
-# Quantum Identity README
-
 <div align="center">
   
 <!-- <p align="center">
