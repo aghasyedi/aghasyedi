@@ -175,9 +175,10 @@ graph TB
 ## 🔗 Quantum Links: Entangle With Me
 
 ```text
-Quantum Channel : aghasyedi@gmail.com
-LinkedIn Portal : https://www.linkedin.com/in/aghasyedi/
-X/Twitter Beam  : https://twitter.com/AghaSyedi
+Quantum Letter    : cs.aghasyedi@gmail.com
+LinkedIn Portal   : https://www.linkedin.com/in/aghasyedi/
+X Beam            : https://twitter.com/SyediAgha
+GitHub Hole       : https://github.com/aghasyedi/
 ```
 
 ---
