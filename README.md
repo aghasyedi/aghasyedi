@@ -51,14 +51,6 @@ I am an **M.Tech Quantum Computing** scholar at **DIAT, Pune**, bridging the gap
 
    </td>
   </tr>
-  <td width="40%" valign="top">
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aghasyedi&theme=radical&hide_border=true&background=0d1117&ring=ff0055&fire=00f2ff" width="100%" />
-    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  </div>
-</td>
 </table>
 
 ```math
