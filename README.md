@@ -3,7 +3,7 @@
 <!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00FFD1&center=true&vCenter=true&width=600&lines=Quantum+Computing+%7C+Quantum+Information;MTech+Quantum+Computing+Student;From+Classical+Code+to+Quantum+Reality" />
 </p> -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=280&section=header&text=AGHA%20TASHEER%20SYEDI&fontSize=60&fontColor=00f2ff&animation=fadeIn&fontAlignY=35&desc=M.Tech%20Quantum%20Computing%20%7C%20Researcher&descAlignY=60&descSize=20&stroke=00f2ff&strokeWidth=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=280&section=header&text=AGHA%20TASHEER%20SYEDI&fontSize=60&fontColor=00f2ff&animation=fadeIn&fontAlignY=35&desc=M.Tech%20Quantum%20Computing%20%7C%20Astrophysics%20Researcher&descAlignY=60&descSize=20&stroke=00f2ff&strokeWidth=1" width="100%" />
 
 
   <a href="https://git.io/typing-svg">
@@ -24,9 +24,9 @@
 
 ### 🧬 The Hamiltonian (Who I Am)
 
-I am an **M.Tech Quantum Computing** scholar at **DIAT, Pune**, bridging the gap between classical computer science and quantum information theory. My work focuses on **Quantum Metrology (Optical Lattice Clocks)**, **Algorithm Design**, and **Information Theoretic Security**.
+I am an **M.Tech Quantum Computing** scholar at **DIAT, Pune**, bridging the gap between classical computer science, quantum information theory, and astrophysics. My work focuses on **Quantum Metrology**, **Algorithm Design**, and exploring the cosmos through computation.
 
-> *"I don't just write code; I evolve unitary operators acting on the state space of information."*
+> *"I don't just write code; I evolve unitary operators acting on the state space of information and the universe."*
 <br />
 
 ### 🔭 Observable Operators (Current Focus)
@@ -98,42 +98,41 @@ Treating quantum projects as **reproducible experiments**, not fleeting code. Ev
 
 ---
 
-## 🌀 Quantum Hilbert Space: Repository Architecture
+## 🌀 Quantum Hilbert Space: My Digital Superposition
 
-```tree
-Quantum-Multiverse/
-├─ Dimension-I/     # Semester-I Wavepacket
-│   ├─ Quantum-Mechanics/    # Dirac Notation & Operators
-│   ├─ Quantum-Computing/    # Gates, Algorithms, Qubits
-│   ├─ Quantum-Info-Theory/  # Entropy, Channels, No-Cloning
-│   └─ Quantum-Tech-Lab/     # Hands-On Entanglements
-├─ Dimension-II/    # Semester-II Interference
-│   ├─ Quantum-Communication/ # Teleportation & Superdense Coding
-│   ├─ Post-Quantum-Crypto/   # Lattice-Based Security
-│   └─ Nonlinear-Optics/     # Photon Interactions & Squeezed States
-└─ Research-Singularity/     # Black Hole of Innovations
-    ├─ Simulations/          # Monte Carlo Quantum Walks
-    ├─ Papers/               # Peer-Reviewed Wavefunctions
-    └─ Experimental-Notes/   # Lab Decoherence Logs
-```
+I maintain a comprehensive digital ecosystem that tracks my research, projects, and articles. 
 
-Design philosophy: **Modular entanglement** for clarity, reproducibility, and scalable quantum extensions. Each repo is a basis vector in my research space.
+- 🌌 **[Interactive Portfolio Website](https://aghasyedi.github.io/portfolio/)**: The main hub for my Quantum & Astrophysics research, featuring a dynamic journey timeline and interactive maps.
+- 📝 **[Medium Articles](https://medium.com/@aghasyedi)**: Deep dives into quantum mechanics, algorithms, and deep science.
+- 🔬 **[GitHub Repositories](https://github.com/aghasyedi)**: The raw wavefunctions of my projects—from QKD simulations to variational quantum algorithms.
+
+Design philosophy: **Modular entanglement** for clarity and an interactive user experience. Explore my pinned repositories below to observe my work.
 
 ---
 
-## 🌟 Quantum Highlights: Selected Observables
+## 🏆 Top Quantum Projects
+
+1. **[AQCA: All Quantum Computing Algorithms](https://github.com/aghasyedi/aqca)** 
+   *Amazing educational atlas & interactive simulation platform mapping 19 foundational and advanced quantum algorithms, communication protocols, and phase models.*
+2. **[BB84 Quantum Key Distribution Simulator](https://github.com/aghasyedi/bb84-simulator)** 
+   *Browser-based simulator of the complete BB84 protocol with photon transmission, reconciliation, and privacy amplification.*
+
+
+---
+
+## 🌟 Quantum Highlights: Featured Observables
 
 **Quantum Realm Entanglements**
 - **Circuit Simulations**: Implementing Shor's algorithm & variational quantum eigensolvers.
-- **QKD Modeling**: Simulating free-space quantum key distribution with atmospheric noise, photon loss, and entanglement distribution.
-- **LaTeX Mastery**: Crafting publication-ready reports on quantum error correction and topological qubits.
+- **QKD Modeling**: Simulating free-space quantum key distribution and cryptographic protocols.
+- **Astrophysics Research**: Intersecting computational modeling with the mysteries of deep space.
 
 **Classical Echoes (Pre-Collapse)**
-- Blockchain oracles & Ethereum smart contracts.
-- Secure Python backends with cryptographic primitives.
-- Algorithmic tools bridging classical to quantum paradigms.
+- **Web Architectures**: Building robust portfolios with HTML5, CSS3, and JavaScript.
+- **Python Tooling**: Scripting automation, data pipelines, and backend logic.
+- **Algorithm Design**: Developing the classical scaffolding required for quantum applications.
 
-*(Classical roots stabilize my quantum superposition.)*
+*(Classical tech stack stabilizes my quantum superposition.)*
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aghasyedi&color=blueviolet" alt="Profile Views" />
