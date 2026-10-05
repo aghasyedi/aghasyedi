@@ -3,16 +3,16 @@
 <!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00FFD1&center=true&vCenter=true&width=600&lines=Quantum+Computing+%7C+Quantum+Information;MTech+Quantum+Computing+Student;From+Classical+Code+to+Quantum+Reality" />
 </p> -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=280&section=header&text=AGHA%20TASHEER%20SYEDI&fontSize=60&fontColor=00f2ff&animation=fadeIn&fontAlignY=35&desc=M.Tech%20Quantum%20Computing%20%7C%20Astrophysics%20Researcher&descAlignY=60&descSize=20&stroke=00f2ff&strokeWidth=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=280&section=header&text=AGHA%20TASHEER%20SYEDI&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=M.Tech%20Quantum%20Computing%20%7C%20Astrophysics%20Researcher&descAlignY=60&descSize=20&stroke=ffffff&strokeWidth=1" width="100%" />
 
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=%7C%CF%88%E2%9F%A9+%3D+%CE%B1%7CTheory%E2%9F%A9+%2B+%CE%B2%7CCode%E2%9F%A9;Initializing+Qubits...;Measuring+Eigenvalues...;Welcome+to+the+Hilbert+Space." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=%7C%CF%88%E2%9F%A9+%3D+%CE%B1%7CTheory%E2%9F%A9+%2B+%CE%B2%7CCode%E2%9F%A9;Initializing+Qubits...;Measuring+Eigenvalues...;Welcome+to+the+Hilbert+Space." alt="Typing SVG" />
   </a>
 
   <p>
     <img src="https://img.shields.io/badge/Coherence-100%25-7000ff?style=for-the-badge&logo=atom&logoColor=white" />
-    <img src="https://img.shields.io/badge/Entanglement-Stable-00f2ff?style=for-the-badge&logo=cplusplus&logoColor=black" />
+    <img src="https://img.shields.io/badge/Entanglement-Stable-ffffff?style=for-the-badge&logo=cplusplus&logoColor=black" />
     <img src="https://img.shields.io/badge/State-Superposition-ff0055?style=for-the-badge&logo=activitypub&logoColor=white" />
   </p>
 
@@ -165,7 +165,7 @@ graph TB
     E --> F
     F -->|Collapse| G[Classical Output]
 
-    style A fill:#0d1117,stroke:#00f2ff,stroke-width:2px,color:#fff
+    style A fill:#0d1117,stroke:#ffffff,stroke-width:2px,color:#fff
     style G fill:#0d1117,stroke:#ff0055,stroke-width:2px,color:#fff
     style C fill:#2a0a4a,stroke:#b300ff,color:#fff
 
@@ -188,8 +188,7 @@ GitHub Hole       : https://github.com/aghasyedi/
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=200&section=footer&reversal=true&animation=fadeIn&fontColor=00F2FF&fontAlignY=45&text=Thanks+for+visiting+—+your+observation+collapsed+the+wavefunction&fontSize=22&desc=Ψ+⟨⟨Collapsed⟩⟩&descAlignY=62&descSize=20&stroke=00F2FF&strokeWidth=1" width="100%" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=200&section=footer&reversal=true&animation=fadeIn&fontColor=ffffff&fontAlignY=45&text=Thanks+for+visiting+—+your+observation+collapsed+the+wavefunction&fontSize=22&desc=Ψ+⟨⟨Collapsed⟩⟩&descAlignY=62&descSize=20&stroke=ffffff&strokeWidth=1" width="100%" />
 
 
 </div>
