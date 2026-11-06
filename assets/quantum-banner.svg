@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Agha Tasheer Syedi animated quantum banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#070713"/>
+      <stop offset="55%" stop-color="#0d0a24"/>
+      <stop offset="100%" stop-color="#14082b"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7F00FF" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#7F00FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00FFD1" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#00FFD1" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowC" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ff0055" stop-opacity="0.40"/>
+      <stop offset="100%" stop-color="#ff0055" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="titleGrad" gradientUnits="userSpaceOnUse" x1="300" y1="0" x2="620" y2="0">
+      <stop offset="0" stop-color="#7F00FF"/>
+      <stop offset="0.5" stop-color="#00FFD1"/>
+      <stop offset="1" stop-color="#ff4f9a"/>
+      <animate attributeName="x1" values="250;950;250" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="550;1250;550" dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)"/>
+
+  <!-- drifting aurora blobs -->
+  <g filter="url(#soft)">
+    <circle cx="250" cy="120" r="210" fill="url(#glowA)">
+      <animate attributeName="cx" values="250;360;220;250" dur="14s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="120;90;160;120" dur="14s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="950" cy="210" r="230" fill="url(#glowB)">
+      <animate attributeName="cx" values="950;840;1000;950" dur="17s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="210;250;170;210" dur="17s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="620" cy="60" r="160" fill="url(#glowC)">
+      <animate attributeName="cx" values="620;700;560;620" dur="11s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="60;110;40;60" dur="11s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- central atom -->
+  <g transform="translate(600,160)">
+    <circle r="14" fill="#ffffff">
+      <animate attributeName="r" values="11;16;11" dur="2.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.85;1;0.85" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+
+    <g transform="rotate(0)">
+      <g>
+        <ellipse rx="150" ry="46" fill="none" stroke="#7F00FF" stroke-width="2" opacity="0.8"/>
+        <circle cx="150" cy="0" r="6" fill="#b388ff">
+          <animate attributeName="opacity" values="1;0.3;1" dur="3s" repeatCount="indefinite"/>
+        </circle>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="6s" repeatCount="indefinite"/>
+      </g>
+    </g>
+    <g transform="rotate(60)">
+      <g>
+        <ellipse rx="150" ry="46" fill="none" stroke="#00FFD1" stroke-width="2" opacity="0.8"/>
+        <circle cx="150" cy="0" r="6" fill="#5cffe0">
+          <animate attributeName="opacity" values="0.3;1;0.3" dur="3s" repeatCount="indefinite"/>
+        </circle>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="8s" repeatCount="indefinite"/>
+      </g>
+    </g>
+    <g transform="rotate(120)">
+      <g>
+        <ellipse rx="150" ry="46" fill="none" stroke="#ff4f9a" stroke-width="2" opacity="0.8"/>
+        <circle cx="150" cy="0" r="6" fill="#ff8fc0">
+          <animate attributeName="opacity" values="1;0.3;1" dur="4s" repeatCount="indefinite"/>
+        </circle>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="7s" repeatCount="indefinite"/>
+      </g>
+    </g>
+  </g>
+
+  <!-- title -->
+  <text x="600" y="250" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',monospace" font-size="58" font-weight="700" letter-spacing="6" fill="url(#titleGrad)">AGHA TASHEER SYEDI</text>
+  <text x="600" y="288" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',monospace" font-size="20" letter-spacing="3" fill="#cfe9ff" opacity="0.9">M.Tech Quantum Computing · Astrophysics Researcher</text>
+
+  <!-- scan line -->
+  <rect x="0" y="0" width="1200" height="2" fill="#00FFD1" opacity="0.5">
+    <animate attributeName="y" values="0;318;0" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.1;0.6;0.1" dur="6s" repeatCount="indefinite"/>
+  </rect>
+</svg>
