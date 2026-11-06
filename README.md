@@ -22,9 +22,9 @@
 
 <div align="center">
 
-### *“I don't just write code; I evolve unitary operators acting on the state space of information and the universe.”*
+### *“Our bodies are complex; our thinking doesn't have to be. Keep it simple. Use common sense.”*
 
-I'm **Agha Tasheer Syedi** — an **M.Tech Quantum Computing** scholar at **DIAT–DRDO, Pune**, specialising in **Quantum Communication & Sensing**. My work sits at the intersection of **QKD, quantum algorithms, quantum metrology, and post-quantum cryptography** — built with Qiskit, QuTiP, and reproducible scientific software.
+I'm **Agha Tasheer Syedi** — an **M.Tech Quantum Computing** scholar at **DIAT–DRDO, Pune**, specialising in **Quantum Communication & Sensing**. My work sits at the intersection of **QKD, quantum algorithms, quantum networking, quantum metrology, and post-quantum cryptography** — built with Qiskit, QuTiP, and reproducible scientific software.
 
 </div>
 
@@ -59,9 +59,8 @@ Shor, Grover, and variational eigensolvers in **Qiskit**; open-system dynamics a
    </td>
     <td width="50%" valign="top">
 
-#### 🛡️ Post-Quantum Cryptography
-Lattice-based constructions alongside classical **RSA / AES / SHA-256** — designing for the post-quantum transition.
-
+#### 🌐 Quantum Networking
+Quantum communication, entanglement distribution, quantum network simulation, and quantum repeaters.
    </td>
   </tr>
 </table>
