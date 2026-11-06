@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 470" width="1000" height="470" role="img" aria-label="Animated research timeline">
+  <defs>
+    <linearGradient id="tl" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#7F00FF"/>
+      <stop offset="100%" stop-color="#00FFD1"/>
+    </linearGradient>
+    <radialGradient id="pp" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="1"/>
+      <stop offset="60%" stop-color="#00FFD1" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#00FFD1" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1000" height="470" fill="#0a0e1a"/>
+  <text x="40" y="34" font-family="monospace" font-size="16" fill="#8b97b5" letter-spacing="3">// QUANTUM TRAJECTORY</text>
+
+  <line x1="150" y1="70" x2="150" y2="420" stroke="url(#tl)" stroke-width="3"/>
+
+  <!-- travelling pulse -->
+  <circle r="14" fill="url(#pp)"><animateMotion dur="5s" repeatCount="indefinite" path="M150,70 L150,420"/></circle>
+  <circle r="4" fill="#fff"><animateMotion dur="5s" repeatCount="indefinite" path="M150,70 L150,420"/></circle>
+
+  <!-- nodes -->
+  <g font-family="monospace" font-size="15" fill="#cfe9ff">
+    <g>
+      <circle cx="150" cy="90" r="9" fill="#7F00FF"><animate attributeName="r" values="9;12;9" dur="2s" repeatCount="indefinite"/></circle>
+      <text x="180" y="86" fill="#b388ff" font-weight="700">2021</text>
+      <text x="180" y="106">B.Tech CSE · SHUATS, Prayagraj</text>
+    </g>
+    <g>
+      <circle cx="150" cy="170" r="9" fill="#9b5cff"><animate attributeName="r" values="9;12;9" dur="2s" begin="0.4s" repeatCount="indefinite"/></circle>
+      <text x="180" y="166" fill="#b388ff" font-weight="700">2025</text>
+      <text x="180" y="186">B.Tech grad · GATE Qualified (CS)</text>
+    </g>
+    <g>
+      <circle cx="150" cy="250" r="9" fill="#00c2ff"><animate attributeName="r" values="9;12;9" dur="2s" begin="0.8s" repeatCount="indefinite"/></circle>
+      <text x="180" y="246" fill="#5cffe0" font-weight="700">2025–27</text>
+      <text x="180" y="266">M.Tech Quantum Computing · DIAT–DRDO</text>
+    </g>
+    <g>
+      <circle cx="150" cy="330" r="9" fill="#00FFD1"><animate attributeName="r" values="9;12;9" dur="2s" begin="1.2s" repeatCount="indefinite"/></circle>
+      <text x="180" y="326" fill="#5cffe0" font-weight="700">2026–Now</text>
+      <text x="180" y="346">Decoy-state BB84 dissertation · AzyQNet</text>
+    </g>
+    <g>
+      <circle cx="150" cy="410" r="9" fill="#ff4f9a"><animate attributeName="r" values="9;12;9" dur="2s" begin="1.6s" repeatCount="indefinite"/></circle>
+      <text x="180" y="406" fill="#ff8fc0" font-weight="700">Horizon</text>
+      <text x="180" y="426">PhD in Quantum Tech · fault-tolerant future</text>
+    </g>
+  </g>
+</svg>

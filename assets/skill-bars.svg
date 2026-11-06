@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 360" width="1000" height="360" role="img" aria-label="Animated skill bars">
+  <defs>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7F00FF"/>
+      <stop offset="100%" stop-color="#00FFD1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="360" fill="#0a0e1a"/>
+  <text x="20" y="28" font-family="monospace" font-size="16" fill="#8b97b5" letter-spacing="3">// QUANTUM TECH RADAR</text>
+
+  <g font-family="monospace" font-size="15" fill="#cfe9ff">
+    <!-- Qiskit -->
+    <text x="20" y="64">Qiskit</text>
+    <rect x="150" y="52" width="760" height="14" rx="7" fill="#16203a"/>
+    <rect x="150" y="52" height="14" rx="7" fill="url(#bar)"><animate attributeName="width" values="0;700;700;0" keyTimes="0;0.5;0.85;1" dur="6s" begin="0s" repeatCount="indefinite"/></rect>
+
+    <text x="20" y="98">QuTiP</text>
+    <rect x="150" y="86" width="760" height="14" rx="7" fill="#16203a"/>
+    <rect x="150" y="86" height="14" rx="7" fill="url(#bar)"><animate attributeName="width" values="0;608;608;0" keyTimes="0;0.5;0.85;1" dur="6s" begin="0.4s" repeatCount="indefinite"/></rect>
+
+    <text x="20" y="132">SeQUeNCe</text>
+    <rect x="150" y="120" width="760" height="14" rx="7" fill="#16203a"/>
+    <rect x="150" y="120" height="14" rx="7" fill="url(#bar)"><animate attributeName="width" values="0;593;593;0" keyTimes="0;0.5;0.85;1" dur="6s" begin="0.8s" repeatCount="indefinite"/></rect>
+
+    <text x="20" y="166">Python</text>
+    <rect x="150" y="154" width="760" height="14" rx="7" fill="#16203a"/>
+    <rect x="150" y="154" height="14" rx="7" fill="url(#bar)"><animate attributeName="width" values="0;722;722;0" keyTimes="0;0.5;0.85;1" dur="6s" begin="1.2s" repeatCount="indefinite"/></rect>
+
+    <text x="20" y="200">JavaScript</text>
+    <rect x="150" y="188" width="760" height="14" rx="7" fill="#16203a"/>
+    <rect x="150" y="188" height="14" rx="7" fill="url(#bar)"><animate attributeName="width" values="0;646;646;0" keyTimes="0;0.5;0.85;1" dur="6s" begin="1.6s" repeatCount="indefinite"/></rect>
+
+    <text x="20" y="234">Flask</text>
+    <rect x="150" y="222" width="760" height="14" rx="7" fill="#16203a"/>
+    <rect x="150" y="222" height="14" rx="7" fill="url(#bar)"><animate attributeName="width" values="0;570;570;0" keyTimes="0;0.5;0.85;1" dur="6s" begin="2.0s" repeatCount="indefinite"/></rect>
+
+    <text x="20" y="268">C / Java</text>
+    <rect x="150" y="256" width="760" height="14" rx="7" fill="#16203a"/>
+    <rect x="150" y="256" height="14" rx="7" fill="url(#bar)"><animate attributeName="width" values="0;520;520;0" keyTimes="0;0.5;0.85;1" dur="6s" begin="2.4s" repeatCount="indefinite"/></rect>
+
+    <text x="20" y="302">Post-Quantum Crypto</text>
+    <rect x="150" y="290" width="760" height="14" rx="7" fill="#16203a"/>
+    <rect x="150" y="290" height="14" rx="7" fill="url(#bar)"><animate attributeName="width" values="0;547;547;0" keyTimes="0;0.5;0.85;1" dur="6s" begin="2.8s" repeatCount="indefinite"/></rect>
+  </g>
+</svg>
