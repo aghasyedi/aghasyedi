@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="1200" height="380" role="img" aria-label="Agha Tasheer Syedi — quantum computing">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#9830A0"/>
+      <stop offset="55%" stop-color="#6d1f76"/>
+      <stop offset="100%" stop-color="#350c3b"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="0.5" stop-color="#F3D9F6"/>
+      <stop offset="1" stop-color="#FFFFFF"/>
+      <animate attributeName="x1" values="-0.5;1.5;-0.5" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0.5;2.5;0.5" dur="7s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="core" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0 H0 V40" fill="none" stroke="#FFFFFF" stroke-width="1" opacity="0.07"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="380" fill="url(#bg)"/>
+  <rect width="1200" height="380" fill="url(#grid)"/>
+
+  <!-- particles -->
+  <g fill="#FFFFFF">
+    <circle cx="180" cy="60" r="2" opacity="0.5"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="420" cy="330" r="2" opacity="0.4"><animate attributeName="opacity" values="0.1;0.6;0.1" dur="5s" begin="1s" repeatCount="indefinite"/></circle>
+    <circle cx="980" cy="70" r="2" opacity="0.5"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="4.5s" begin="0.5s" repeatCount="indefinite"/></circle>
+    <circle cx="1090" cy="320" r="2" opacity="0.4"><animate attributeName="opacity" values="0.1;0.6;0.1" dur="5.5s" begin="1.5s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- orbit system -->
+  <g transform="translate(940,190)">
+    <circle r="150" fill="url(#core)" opacity="0.25">
+      <animate attributeName="r" values="140;165;140" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <g transform="rotate(0)"><g><ellipse rx="150" ry="52" fill="none" stroke="#FFFFFF" stroke-width="1.4" opacity="0.55"/><circle cx="150" cy="0" r="5" fill="#FFFFFF"/></g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="7s" repeatCount="indefinite"/></g>
+    <g transform="rotate(60)"><g><ellipse rx="150" ry="52" fill="none" stroke="#FFFFFF" stroke-width="1.4" opacity="0.45"/><circle cx="150" cy="0" r="5" fill="#F3D9F6"/></g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="9s" repeatCount="indefinite"/></g>
+    <g transform="rotate(120)"><g><ellipse rx="150" ry="52" fill="none" stroke="#FFFFFF" stroke-width="1.4" opacity="0.4"/><circle cx="150" cy="0" r="5" fill="#FFFFFF"/></g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="11s" repeatCount="indefinite"/></g>
+    <circle r="10" fill="#FFFFFF">
+      <animate attributeName="r" values="8;12;8" dur="3s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- copy -->
+  <text x="80" y="112" font-family="'JetBrains Mono',monospace" font-size="15" letter-spacing="4" fill="#F3D9F6" opacity="0.9">QUANTUM COMPUTING · DIAT–DRDO</text>
+  <text x="80" y="196" font-family="'JetBrains Mono',monospace" font-size="50" font-weight="700" letter-spacing="2" fill="url(#name)">AGHA TASHEER SYEDI</text>
+  <rect x="82" y="220" width="0" height="3" fill="#FFFFFF">
+    <animate attributeName="width" values="0;520;520" keyTimes="0;0.6;1" dur="2.5s" fill="freeze"/>
+  </rect>
+  <text x="80" y="272" font-family="'JetBrains Mono',monospace" font-size="21" fill="#FFFFFF" opacity="0.95">Quantum Communication &amp; Sensing</text>
+  <text x="80" y="308" font-family="'JetBrains Mono',monospace" font-size="15" letter-spacing="1" fill="#F3D9F6" opacity="0.75">QKD · Quantum Sensing · Post-Quantum Cryptography</text>
+</svg>

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 480" width="1000" height="480" role="img" aria-label="Trajectory timeline">
+  <defs>
+    <linearGradient id="tbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1d0620"/>
+      <stop offset="100%" stop-color="#350c3b"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#9830A0"/>
+    </linearGradient>
+    <radialGradient id="pulse" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="1"/>
+      <stop offset="60%" stop-color="#C86FD0" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#C86FD0" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1000" height="480" fill="url(#tbg)"/>
+  <text x="40" y="40" font-family="'JetBrains Mono',monospace" font-size="16" letter-spacing="5" fill="#FFFFFF" opacity="0.9">TRAJECTORY</text>
+
+  <line x1="150" y1="80" x2="150" y2="430" stroke="url(#line)" stroke-width="2.5"/>
+  <circle r="14" fill="url(#pulse)"><animateMotion dur="5s" repeatCount="indefinite" path="M150,80 L150,430"/></circle>
+  <circle r="4" fill="#FFFFFF"><animateMotion dur="5s" repeatCount="indefinite" path="M150,80 L150,430"/></circle>
+
+  <g font-family="'JetBrains Mono',monospace" font-size="15" fill="#FFFFFF">
+    <g>
+      <circle cx="150" cy="100" r="8" fill="#9830A0" stroke="#FFFFFF" stroke-width="2"><animate attributeName="r" values="8;11;8" dur="2.2s" repeatCount="indefinite"/></circle>
+      <text x="182" y="96" fill="#E9C6EE" font-weight="700">2021</text>
+      <text x="182" y="116">B.Tech CSE · SHUATS, Prayagraj</text>
+    </g>
+    <g>
+      <circle cx="150" cy="180" r="8" fill="#9830A0" stroke="#FFFFFF" stroke-width="2"><animate attributeName="r" values="8;11;8" dur="2.2s" begin="0.4s" repeatCount="indefinite"/></circle>
+      <text x="182" y="176" fill="#E9C6EE" font-weight="700">2025</text>
+      <text x="182" y="196">B.Tech graduate · GATE Qualified (CS)</text>
+    </g>
+    <g>
+      <circle cx="150" cy="260" r="8" fill="#9830A0" stroke="#FFFFFF" stroke-width="2"><animate attributeName="r" values="8;11;8" dur="2.2s" begin="0.8s" repeatCount="indefinite"/></circle>
+      <text x="182" y="256" fill="#E9C6EE" font-weight="700">2025–27</text>
+      <text x="182" y="276">M.Tech Quantum Computing · DIAT–DRDO</text>
+    </g>
+    <g>
+      <circle cx="150" cy="340" r="8" fill="#9830A0" stroke="#FFFFFF" stroke-width="2"><animate attributeName="r" values="8;11;8" dur="2.2s" begin="1.2s" repeatCount="indefinite"/></circle>
+      <text x="182" y="336" fill="#E9C6EE" font-weight="700">2026–Now</text>
+      <text x="182" y="356">Decoy-State BB84 QKD · M.Tech Dissertation</text>
+    </g>
+    <g>
+      <circle cx="150" cy="420" r="8" fill="#9830A0" stroke="#FFFFFF" stroke-width="2"><animate attributeName="r" values="8;11;8" dur="2.2s" begin="1.6s" repeatCount="indefinite"/></circle>
+      <text x="182" y="416" fill="#E9C6EE" font-weight="700">Horizon</text>
+      <text x="182" y="436">PhD in Quantum Technology</text>
+    </g>
+  </g>
+</svg>
