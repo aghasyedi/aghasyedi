@@ -9,8 +9,7 @@
   <img src="https://img.shields.io/badge/M.Tech_Quantum_Computing-9830A0?style=for-the-badge&logo=atom&logoColor=white" alt="M.Tech" />
   <img src="https://img.shields.io/badge/DIAT%E2%80%93DRDO_Pune-350C3B?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="DIAT" />
   <img src="https://img.shields.io/badge/GATE_2024%2F25-9830A0?style=for-the-badge&logo=google&logoColor=white" alt="GATE" />
-  <img src="https://img.shields.io/badge/AICTE_Scholar-FFFFFF?style=for-the-badge&labelColor=9830A0" alt="AICTE" />
-  <img src="https://img.shields.io/badge/CGPA_8.35-FFFFFF?style=for-the-badge&labelColor=9830A0" alt="CGPA" />
+  <img src="https://img.shields.io/badge/AICTE_Scholar-350C3B?style=for-the-badge&labelColor=9830A0" alt="AICTE" />
 </p>
 
 <img src="assets/divider.svg" width="100%" alt="" />
